@@ -1,7 +1,7 @@
 # 💫 About Me
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png"
      min-width="300px" max-width="300px" width="350px" align="right">
-## 👋 Hi, I'm Nitin Johri<br><br>🎓 B.Tech Student | AI & ML Enthusiast  <br>💻 Passionate about Deep Learning, Reinforcement Learning & LLM Applications  <br>🔐 Interested in Cybersecurity & Vulnerability Analysis  <br><br>🚀 Currently working on:<br>- LLM-based Vulnerability Analyzer<br>- Automated Security Report Generator (CVSS, OWASP Mapping)<br>- OCR + Regex based PoC Analysis Tools<br><br>🛠️ Tech Stack:<br>Python | PyTorch | TensorFlow | FastAPI | EasyOCR | Transformers | Git  <br><br><br>
+ 👋 Hi, I'm Nitin Johri<br><br>🎓 B.Tech Student | AI & ML Enthusiast  <br>💻 Passionate about Deep Learning, Reinforcement Learning & LLM Applications  <br>🔐 Interested in Cybersecurity & Vulnerability Analysis  <br><br>🚀 Currently working on:<br>- LLM-based Vulnerability Analyzer<br>- Automated Security Report Generator (CVSS, OWASP Mapping)<br>- OCR + Regex based PoC Analysis Tools<br><br>🛠️ Tech Stack:<br>Python | PyTorch | TensorFlow | FastAPI | EasyOCR | Transformers | Git  <br><br><br>
 
 
 ## 🌐 Socials:
