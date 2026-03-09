@@ -6,6 +6,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4200&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&repeat=true&lines=✨+Nitin+Johri;🤖+AI+%7C+ML+Engineer;🧠+Deep+Learning+Explorer;👁+Computer+Vision+Developer;📊+Data+Science+%26+GenAI+Innovator;🔬+AI+Research+Enthusiast;⚡+Transforming+Data+into+Intelligence" />
 </p>
 
+Hi, I'm Nitin Johri 👋
+I'm a BTech student passionate about AI, Machine Learning, and Deep Learning.
+I enjoy building projects in Computer Vision, Speech AI, and Data Science.
+Currently exploring Generative AI and real-world AI applications.
+Always learning and transforming data into intelligent solutions 🚀
 
 
 ## 🌐 Socials:
