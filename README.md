@@ -1,9 +1,9 @@
 # 💫 About Me
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png"
-     min-width="300px" max-width="300px" width="350px" align="right">
  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4200&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&repeat=true&lines=✨+Nitin+Johri;🤖+AI+%7C+ML+Engineer;🧠+Deep+Learning+Explorer;👁+Computer+Vision+Developer;📊+Data+Science+%26+GenAI+Innovator;🔬+AI+Research+Enthusiast;⚡+Transforming+Data+into+Intelligence" />
 </p>
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png"
+     min-width="300px" max-width="300px" width="350px" align="right">
 
 
 ## 🌐 Socials:
